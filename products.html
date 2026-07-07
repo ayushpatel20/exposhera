@@ -233,7 +233,7 @@
             </div>
 
             <!-- Category Filtering buttons -->
-            <div class="products-filter-bar reveal-slide" style="margin-bottom: 40px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+            <div id="categoryFilterBar" class="products-filter-bar reveal-slide" style="margin-bottom: 40px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
                 <button class="filter-btn active" data-filter="all">All Products</button>
                 <button class="filter-btn" data-filter="jackets">Safety Jackets</button>
                 <button class="filter-btn" data-filter="shoes">Safety Shoes</button>
@@ -466,7 +466,6 @@
         document.addEventListener('DOMContentLoaded', () => {
             const grid = document.getElementById('productsCatalogGrid');
             const loadMoreBtn = document.getElementById('loadMoreBtn');
-            const filterButtons = document.querySelectorAll('.filter-btn');
             const searchName = document.getElementById('productSearchName');
             const searchCode = document.getElementById('productSearchCode');
             
@@ -489,26 +488,90 @@
             let activeFilter = 'all';
             let queryName = '';
             let queryCode = '';
-            
-            // Check for category filter in URL
-            const urlParams = new URLSearchParams(window.location.search);
-            const catParam = urlParams.get('category');
-            if (catParam) {
-                const validCategories = ['jackets', 'shoes', 'helmets', 'gloves', 'road', 'welding', 'fall', 'bopp', 'cctv'];
-                if (validCategories.includes(catParam.toLowerCase())) {
-                    activeFilter = catParam.toLowerCase();
-                    filterButtons.forEach(btn => {
-                        if (btn.getAttribute('data-filter') === activeFilter) {
-                            btn.classList.add('active');
-                        } else {
-                            btn.classList.remove('active');
-                        }
-                    });
-                }
-            }
+            let validCategories = ['jackets', 'shoes', 'helmets', 'gloves', 'road', 'welding', 'fall', 'bopp', 'cctv'];
             
             let displayedCount = 24;
             const itemsPerPage = 24;
+
+            // Fetch and initialize CMS catalog data
+            fetch('content.json')
+                .then(res => res.json())
+                .then(data => {
+                    if (data.categories) {
+                        validCategories = data.categories.map(c => c.id.toLowerCase());
+                        renderCategoryButtons(data.categories);
+                        updateEnquiryDropdown(data.categories);
+                    }
+                    if (data.products) {
+                        PRODUCTS_DATA.length = 0;
+                        data.products.forEach(p => PRODUCTS_DATA.push(p));
+                    }
+                    initUrlFilter();
+                    renderCatalog();
+                })
+                .catch(err => {
+                    console.log('Failed to fetch CMS content database, using static fallback.', err);
+                    bindFilterButtons();
+                    renderCatalog();
+                });
+
+            // Dynamically render category buttons
+            function renderCategoryButtons(categories) {
+                const bar = document.getElementById('categoryFilterBar');
+                if (!bar) return;
+                bar.innerHTML = '<button class="filter-btn active" data-filter="all">All Products</button>';
+                categories.forEach(cat => {
+                    const btn = document.createElement('button');
+                    btn.className = 'filter-btn';
+                    btn.setAttribute('data-filter', cat.id);
+                    btn.textContent = cat.name;
+                    bar.appendChild(btn);
+                });
+                bindFilterButtons();
+            }
+
+            // Bind click handlers to whatever buttons exist
+            function bindFilterButtons() {
+                const buttons = document.querySelectorAll('.filter-btn');
+                buttons.forEach(btn => {
+                    btn.classList.toggle('active', btn.getAttribute('data-filter') === activeFilter);
+                    
+                    btn.addEventListener('click', () => {
+                        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                        btn.classList.add('active');
+                        activeFilter = btn.getAttribute('data-filter');
+                        displayedCount = itemsPerPage;
+                        renderCatalog();
+                    });
+                });
+            }
+
+            // Sync dropdown choices on lead form
+            function updateEnquiryDropdown(categories) {
+                const select = document.getElementById('enquiryProductSelect');
+                if (!select) return;
+                select.innerHTML = '<option value="">Select Category / Product</option>';
+                categories.forEach(cat => {
+                    const opt = document.createElement('option');
+                    opt.textContent = cat.name;
+                    select.appendChild(opt);
+                });
+                const optOther = document.createElement('option');
+                optOther.textContent = 'Other Requirements';
+                select.appendChild(optOther);
+            }
+
+            // Check URL filters
+            function initUrlFilter() {
+                const urlParams = new URLSearchParams(window.location.search);
+                const catParam = urlParams.get('category');
+                if (catParam && validCategories.includes(catParam.toLowerCase())) {
+                    activeFilter = catParam.toLowerCase();
+                    document.querySelectorAll('.filter-btn').forEach(btn => {
+                        btn.classList.toggle('active', btn.getAttribute('data-filter') === activeFilter);
+                    });
+                }
+            }
             
             // Filter products
             function getFilteredProducts() {
@@ -546,8 +609,8 @@
                             <div class="product-body">
                                 <h3 style="color: var(--accent); margin-bottom:10px;">${p.name}</h3>
                                 <div style="display: flex; flex-direction: column; gap: 6px; margin: 10px 0; font-size: 0.85rem; color: var(--text-light);">
-                                    <div style="display:flex; justify-content:space-between;"><span style="color: var(--text-muted);">Size:</span><strong>${p.specs['Size (Inches)']} Inches</strong></div>
-                                    <div style="display:flex; justify-content:space-between;"><span style="color: var(--text-muted);">Thickness:</span><strong>${p.specs['Thickness']}</strong></div>
+                                    <div style="display:flex; justify-content:space-between;"><span style="color: var(--text-muted);">Size:</span><strong>${p.specs['Size (Inches)'] || p.specs['Size'] || 'Standard'}</strong></div>
+                                    <div style="display:flex; justify-content:space-between;"><span style="color: var(--text-muted);">Thickness:</span><strong>${p.specs['Thickness'] || 'N/A'}</strong></div>
                                 </div>
                                 <p class="product-desc" style="font-size:0.75rem; margin-top:8px;">${p.description.substring(0, 80)}...</p>
                                 <div class="product-footer-actions" style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 15px;">
@@ -558,7 +621,6 @@
                             </div>
                         `;
                         
-                        // Prevent click propagation for links and buttons to avoid opening details modal
                         card.querySelector('.card-btn-call').addEventListener('click', (e) => e.stopPropagation());
                         card.querySelector('.card-btn-wa').addEventListener('click', (e) => e.stopPropagation());
                         card.querySelector('.card-btn-quote').addEventListener('click', (e) => {
@@ -568,7 +630,7 @@
                             const textarea = document.getElementById('enquiryTextarea');
                             if (overlay && select) {
                                 select.value = 'Other Requirements';
-                                if (textarea) textarea.value = `I would like to request a quote for BOPP Bag (Size: ${p.specs['Size (Inches)']}, Thickness: ${p.specs['Thickness']}, Code: ${p.code})`;
+                                if (textarea) textarea.value = `I would like to request a quote for BOPP Bag (Size: ${p.specs['Size (Inches)'] || 'N/A'}, Thickness: ${p.specs['Thickness'] || 'N/A'}, Code: ${p.code})`;
                                 overlay.classList.add('show');
                                 document.body.style.overflow = 'hidden';
                             }
@@ -620,7 +682,7 @@
                 dCode.textContent = `Code: ${p.code}`;
                 dDesc.textContent = p.description;
                 dMOQ.textContent = p.moq;
-                dColors.textContent = p.colors.join(', ');
+                dColors.textContent = Array.isArray(p.colors) ? p.colors.join(', ') : (p.colors || 'Standard');
 
                 // Populate Specs Table
                 dSpecs.innerHTML = '';
@@ -635,19 +697,23 @@
 
                 // Populate Features List
                 dFeatures.innerHTML = '';
-                p.features.forEach(f => {
-                    const li = document.createElement('li');
-                    li.textContent = f;
-                    dFeatures.appendChild(li);
-                });
+                if (p.features && p.features.length) {
+                    p.features.forEach(f => {
+                        const li = document.createElement('li');
+                        li.textContent = f;
+                        dFeatures.appendChild(li);
+                    });
+                }
 
                 // Populate Applications List
                 dApps.innerHTML = '';
-                p.apps.forEach(a => {
-                    const li = document.createElement('li');
-                    li.textContent = a;
-                    dApps.appendChild(li);
-                });
+                if (p.apps && p.apps.length) {
+                    p.apps.forEach(a => {
+                        const li = document.createElement('li');
+                        li.textContent = a;
+                        dApps.appendChild(li);
+                    });
+                }
 
                 // Set links
                 dWABtn.href = `https://wa.me/919560393262?text=Hi%2C%20I%20am%20interested%20in%20product%20${p.name}%20(Code%3A%20${p.code}).%20Please%20provide%20a%20price%20quote.`;
@@ -680,17 +746,6 @@
             if (closeDetailBtn) closeDetailBtn.addEventListener('click', closeProductDetails);
             detailModal.addEventListener('click', (e) => {
                 if (e.target === detailModal) closeProductDetails();
-            });
-
-            // Filter Buttons Event Binding
-            filterButtons.forEach(btn => {
-                btn.addEventListener('click', () => {
-                    filterButtons.forEach(b => b.classList.remove('active'));
-                    btn.classList.add('active');
-                    activeFilter = btn.getAttribute('data-filter');
-                    displayedCount = itemsPerPage; // Reset page count
-                    renderCatalog();
-                });
             });
 
             // Search inputs event binding

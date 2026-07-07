@@ -34,5 +34,3838 @@
     "desc_p1": "Exposhera Security Force Pvt. Ltd. is a premier security solutions provider based in Delhi NCR. We deliver highly customized and structured security solutions designed for multi-layered safeguarding operations.",
     "desc_p2": "We specialize in providing high-caliber security guards, executive bouncers, armed gunmen, corporate asset protection, and safety equipment distribution matching IS/EN standards.",
     "bg": "images/about_company.png"
-  }
+  },
+  "categories": [
+    {
+      "id": "jackets",
+      "name": "Safety Jackets"
+    },
+    {
+      "id": "shoes",
+      "name": "Safety Shoes"
+    },
+    {
+      "id": "helmets",
+      "name": "Safety Helmets"
+    },
+    {
+      "id": "gloves",
+      "name": "Safety Gloves"
+    },
+    {
+      "id": "road",
+      "name": "Road Safety"
+    },
+    {
+      "id": "welding",
+      "name": "Welding Equipment"
+    },
+    {
+      "id": "fall",
+      "name": "Fall Protection"
+    },
+    {
+      "id": "bopp",
+      "name": "BOPP Bags"
+    },
+    {
+      "id": "cctv",
+      "name": "Security Cameras"
+    }
+  ],
+  "products": [
+    {
+      "id": "RN-01",
+      "code": "RN-01",
+      "name": "Reflective Safety Jacket RN-01",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-01.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-02",
+      "code": "RN-02",
+      "name": "Reflective Safety Jacket RN-02",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-02.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-03",
+      "code": "RN-03",
+      "name": "Reflective Safety Jacket RN-03",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-03.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-04",
+      "code": "RN-04",
+      "name": "Reflective Safety Jacket RN-04",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-04.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-05",
+      "code": "RN-05",
+      "name": "Reflective Safety Jacket RN-05",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-05.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "1.75 Inch",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-06",
+      "code": "RN-06",
+      "name": "Reflective Safety Jacket RN-06",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-06.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-07",
+      "code": "RN-07",
+      "name": "Reflective Safety Jacket RN-07",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-07.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "0.75 Inch",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-08",
+      "code": "RN-08",
+      "name": "Reflective Safety Jacket RN-08",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-08.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "1 Inch",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-09",
+      "code": "RN-09",
+      "name": "Reflective Safety Jacket RN-09",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-09.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "1.75 Inch",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-10",
+      "code": "RN-10",
+      "name": "Reflective Safety Jacket RN-10",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-10.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-11",
+      "code": "RN-11",
+      "name": "Reflective Safety Jacket RN-11",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-11.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "1.75 Inch",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-12",
+      "code": "RN-12",
+      "name": "Reflective Safety Jacket RN-12",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-12.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-13",
+      "code": "RN-13",
+      "name": "Reflective Safety Jacket RN-13",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-13.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Football Net & Fabric",
+        "Reflective Tape": "0.75 Inch",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-14",
+      "code": "RN-14",
+      "name": "Reflective Safety Jacket RN-14",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-14.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Football Net & Fabric",
+        "Reflective Tape": "1 Inch",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-15",
+      "code": "RN-15",
+      "name": "Reflective Safety Jacket RN-15",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-15.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Football Net & Fabric",
+        "Reflective Tape": "1.75 Inch",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-16",
+      "code": "RN-16",
+      "name": "Reflective Safety Jacket RN-16",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-16.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Football Net & Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "60 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-17",
+      "code": "RN-17",
+      "name": "Reflective Safety Jacket RN-17",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-17.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Football Net & Fabric",
+        "Reflective Tape": "1.75 Inch",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-18",
+      "code": "RN-18",
+      "name": "Reflective Safety Jacket RN-18",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-18.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Football Net & Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-19",
+      "code": "RN-19",
+      "name": "Reflective Safety Jacket RN-19",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-19.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-20",
+      "code": "RN-20",
+      "name": "Reflective Safety Jacket RN-20",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-20.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-21",
+      "code": "RN-21",
+      "name": "Reflective Safety Jacket RN-21",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-21.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-22",
+      "code": "RN-22",
+      "name": "Reflective Safety Jacket RN-22 (Green)",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-22.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping (Velcro / Green)",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-23",
+      "code": "RN-23",
+      "name": "Reflective Safety Jacket RN-23",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-23.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-24",
+      "code": "RN-24",
+      "name": "Reflective Safety Jacket RN-24",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-24.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-25",
+      "code": "RN-25",
+      "name": "Reflective Safety Jacket RN-25",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-25.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-26",
+      "code": "RN-26",
+      "name": "Reflective Safety Jacket RN-26",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-26.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-27",
+      "code": "RN-27",
+      "name": "Reflective Safety Jacket RN-27",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-27.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-28",
+      "code": "RN-28",
+      "name": "Reflective Cotton Safety Jacket RN-28",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-28.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | Color Piping (Cotton)",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "180 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "200 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "200 Pcs"
+    },
+    {
+      "id": "RN-29",
+      "code": "RN-29",
+      "name": "Reflective Safety Jacket RN-29",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-29.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Chain | 2 Pockets",
+        "Reflective Tape": "2 Inch Grey Tape & Border",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "500 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "500 Pcs"
+    },
+    {
+      "id": "RN-30",
+      "code": "RN-30",
+      "name": "Reflective Safety Jacket RN-30",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-30.webp",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Net & Fabric",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "200 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "200 Pcs"
+    },
+    {
+      "id": "RN-31",
+      "code": "RN-31",
+      "name": "Reflective Safety Jacket RN-31",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-31.webp",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Football Net & Fabric",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "150 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "200 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "200 Pcs"
+    },
+    {
+      "id": "RN-32",
+      "code": "RN-32",
+      "name": "Reflective Safety Jacket RN-32",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-32.webp",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Star Net",
+        "Reflective Tape": "2 Inch Grey Tape & Border",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "200 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "200 Pcs"
+    },
+    {
+      "id": "RN-33",
+      "code": "RN-33",
+      "name": "Reflective Cross Belt RN-33",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-33.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Belt Net & Fabric",
+        "Reflective Tape": "1.75 Inch White Tape",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "RN-34",
+      "code": "RN-34",
+      "name": "Reflective Cross Belt RN-34",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-34.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Belt Net & Fabric",
+        "Reflective Tape": "2 Inch White Tape",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "RN-35",
+      "code": "RN-35",
+      "name": "Reflective Cross Belt RN-35",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-35.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Belt Net & Fabric",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "40 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "RN-36",
+      "code": "RN-36",
+      "name": "Reflective Cross Belt RN-36 (L&T)",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-36.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Belt (L&T Style) Football Net",
+        "Reflective Tape": "2 Inch White Tape",
+        "Weight/GSM": "60 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "RN-37",
+      "code": "RN-37",
+      "name": "Reflective Cross Belt RN-37 (L&T)",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-37.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Belt (L&T Style) White-Black",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "60 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "RN-38",
+      "code": "RN-38",
+      "name": "Reflective Cross Belt RN-38 (L&T)",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-38.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Belt (L&T Style) Net & Fabric",
+        "Reflective Tape": "2 Inch White Tape",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "RN-39",
+      "code": "RN-39",
+      "name": "Reflective Cross Belt RN-39 (L&T)",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-39.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Belt (L&T Style) Net & Fabric",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "90 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "RN-40",
+      "code": "RN-40",
+      "name": "Reflective Cross Belt RN-40 (L&T)",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-40.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Belt (L&T Style) Net & Fabric",
+        "Reflective Tape": "2 Inch White Tape",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "RN-41",
+      "code": "RN-41",
+      "name": "Reflective Cross Belt RN-41 (L&T)",
+      "category": "jackets",
+      "image": "images/products/Reflective Safety Jacket RN-41.jpg",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Belt (L&T Style) Net & Fabric",
+        "Reflective Tape": "2 Inch Grey Tape",
+        "Weight/GSM": "120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Lime",
+        "Royal Blue / Neon Dual-Tone"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "RN-42",
+      "code": "RN-42",
+      "name": "Reflective Cross Jacket RN-42",
+      "category": "jackets",
+      "image": "images/products/Rn42.webp",
+      "description": "Premium grade high-visibility reflective safety apparel designed for operations in high-risk zones. Features retroreflective silver stripes and heavy duty closures. Fully compliant with industrial safety standards.",
+      "features": [
+        "High-Intensity Retroreflective Silver Stripes",
+        "Ultra-breathable quick-dry fabric core",
+        "Strong front zipper / heavy duty Velcro closures",
+        "Reinforced pen pockets, utility D-rings, and ID holders"
+      ],
+      "specs": {
+        "Fabric": "Cross Jacket Fabric",
+        "Reflective Tape": "2 Inch",
+        "Weight/GSM": "40-120 GSM",
+        "Standard": "EN ISO 20471 Class 2 Certified",
+        "MOQ": "300 Pcs",
+        "Durability": "Up to 50 Industrial Wash Cycles"
+      },
+      "apps": [
+        "Construction Site Supervisors",
+        "Municipal Road Repair Crews",
+        "Traffic Control and Logistics Marshals",
+        "Airfield Ground and Loading Personnel"
+      ],
+      "colors": [
+        "Hi-Vis Orange",
+        "Neon Green"
+      ],
+      "moq": "300 Pcs"
+    },
+    {
+      "id": "GLV-01",
+      "code": "GLV-01",
+      "name": "Dotted Gloves (45 GSM)",
+      "category": "gloves",
+      "image": "images/products/Dotted Gloves.jpg",
+      "description": "Premium dotted cotton gloves with anti-slip PVC dots on palms. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "45 gsm",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "600 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "45 gsm"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "moq": "600 Pairs"
+    },
+    {
+      "id": "GLV-02",
+      "code": "GLV-02",
+      "name": "Double Side Dotted Gloves (60 GSM)",
+      "category": "gloves",
+      "image": "images/products/Dotted Gloves60gsm.jpg",
+      "description": "Double-sided PVC dotted cotton gloves for double the durability. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "60 gsm",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "600 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "60 gsm"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Blue-White"
+      ],
+      "moq": "600 Pairs"
+    },
+    {
+      "id": "GLV-03",
+      "code": "GLV-03",
+      "name": "Industrial Gloves",
+      "category": "gloves",
+      "image": "images/products/fulldip orange gloves.jpg",
+      "description": "Heavy-duty protection gloves for robust mechanical and tool handling. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "Heavy Duty",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "Heavy Duty"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Orange"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "GLV-04",
+      "code": "GLV-04",
+      "name": "Chemical Gloves",
+      "category": "gloves",
+      "image": "images/products/red black gloves.jpg",
+      "description": "Acid and solvent resistant neoprene/nitrile blended safety gloves. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "Chemical Resistant",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "Chemical Resistant"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Red-Black"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "GLV-05",
+      "code": "GLV-05",
+      "name": "Tiger Gloves",
+      "category": "gloves",
+      "image": "images/products/orange white gloves.jpg",
+      "description": "Extremely durable cut-resistant gloves with high-grip palm coatings. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "Textured Rubber",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "Textured Rubber"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Orange-White"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "GLV-06",
+      "code": "GLV-06",
+      "name": "Leather Gloves",
+      "category": "gloves",
+      "image": "images/products/lather hand gloves.jpg",
+      "description": "Premium split cowhide leather work gloves protecting against abrasions. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "Split Cowhide Leather",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "Split Cowhide Leather"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Golden Yellow"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "GLV-07",
+      "code": "GLV-07",
+      "name": "Chrome Leather Gloves",
+      "category": "gloves",
+      "image": "images/products/lather hand gloves.jpg",
+      "description": "Chrome-tanned heavy duty split leather gloves for extreme friction resistance. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "Chrome Leather",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "Chrome Leather"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Grey"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "GLV-08",
+      "code": "GLV-08",
+      "name": "Cotton Dotted Gloves (50 GSM)",
+      "category": "gloves",
+      "image": "images/products/Dotted Gloves 50gsm.jpg",
+      "description": "Lightweight, breathable cotton canvas gloves for basic skin protection. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "50 gsm",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "600 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "50 gsm"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "moq": "600 Pairs"
+    },
+    {
+      "id": "GLV-09",
+      "code": "GLV-09",
+      "name": "Nitrile Gloves",
+      "category": "gloves",
+      "image": "images/products/red black gloves.jpg",
+      "description": "Disposable medical and chemical-grade latex-free nitrile examination gloves. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "Nitrile Blend",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "Nitrile Blend"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Safety Red-Black"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "GLV-10",
+      "code": "GLV-10",
+      "name": "PVC Gloves",
+      "category": "gloves",
+      "image": "images/products/fulldip orange gloves.jpg",
+      "description": "Fully liquid-proof red PVC coated gloves with cotton jersey liner. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "Nitrile Full Dip",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "Nitrile Full Dip"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Full Dip Orange"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "GLV-11",
+      "code": "GLV-11",
+      "name": "Rubber Gloves",
+      "category": "gloves",
+      "image": "images/products/orange white gloves.jpg",
+      "description": "Premium natural rubber latex gloves with anti-slip texturing. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "Natural Latex",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "Natural Latex"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Orange-White"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "GLV-12",
+      "code": "GLV-12",
+      "name": "Heat Resistant Gloves",
+      "category": "gloves",
+      "image": "images/products/jeans gloves.jpg",
+      "description": "Aramid fiber and fiberglass lined gloves rated for high thermal exposures. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "Denim & Aramid",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "Denim & Aramid"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Jeans Blue"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "GLV-13",
+      "code": "GLV-13",
+      "name": "Welding Gloves",
+      "category": "gloves",
+      "image": "images/products/lather hand gloves.jpg",
+      "description": "14-inch heavy-duty split cowhide leather welding gauntlets with heat insulation. Offers consistent comfort, high breathability, and reliable palm-side barrier shielding matching industrial specifications.",
+      "features": [
+        "Ergonomically contoured fit to reduce muscle fatigue",
+        "Superior abrasion, puncture, and tear resistance",
+        "Textured surface pattern for firm wet/dry gripping",
+        "Standard elastic cuffs to seal out dust and debris"
+      ],
+      "specs": {
+        "Material": "14-inch Cowhide",
+        "Standards Compliance": "EN 388 mechanical risk and EN 420 standards compliant",
+        "MOQ": "500 Pairs",
+        "Size Range": "Medium / Large / Extra Large",
+        "Weight/GSM": "14-inch Cowhide"
+      },
+      "apps": [
+        "Warehouse Handling",
+        "Metal Processing and Rigging",
+        "Chemical and Solvent Handling",
+        "General Assembly Work"
+      ],
+      "colors": [
+        "Golden Yellow"
+      ],
+      "moq": "500 Pairs"
+    },
+    {
+      "id": "SHS-01",
+      "code": "SHS-01",
+      "name": "PVC Rexin Shoes",
+      "category": "shoes",
+      "image": "images/products/PVC Rexin Shoes.webp",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "PVC Rexin Upper",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "6, 7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "SHS-02",
+      "code": "SHS-02",
+      "name": "PVC High Ankle Shoes",
+      "category": "shoes",
+      "image": "images/products/PVC High Ankle Shoes.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "PVC High Ankle Support",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "6, 7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "SHS-03",
+      "code": "SHS-03",
+      "name": "Leather PVC Shoes",
+      "category": "shoes",
+      "image": "images/products/Leather PVC Shoes.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "Top Grain Buff Leather",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "6, 7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "SHS-04",
+      "code": "SHS-04",
+      "name": "Leather PU Shoes",
+      "category": "shoes",
+      "image": "images/products/Leather PU Shoes.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "Premium Split Leather / PU Sole",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "6, 7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "SHS-05",
+      "code": "SHS-05",
+      "name": "Ladies Safety Shoes",
+      "category": "shoes",
+      "image": "images/products/Ladies Safety Shoes.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "Ladies Belly Style Upper",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "5, 6, 7"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "SHS-06",
+      "code": "SHS-06",
+      "name": "PVC Gumboots",
+      "category": "shoes",
+      "image": "images/products/PVC Gumboots.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "Flockline PVC (11-Inch)",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "30 Pairs",
+        "Size Range": "8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "30 Pairs"
+    },
+    {
+      "id": "SHS-07",
+      "code": "SHS-07",
+      "name": "Rubber Gumboots",
+      "category": "shoes",
+      "image": "images/products/Rubber Gumboots.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "Natural Rubber (11-Inch)",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "30 Pairs",
+        "Size Range": "7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "30 Pairs"
+    },
+    {
+      "id": "SHS-08",
+      "code": "SHS-08",
+      "name": "Industrial Safety Boots",
+      "category": "shoes",
+      "image": "images/products/Leather PU Shoes.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "Heavy Duty Leather Upper",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "6, 7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "SHS-09",
+      "code": "SHS-09",
+      "name": "Steel Toe Safety Shoes",
+      "category": "shoes",
+      "image": "images/products/Leather PVC Shoes.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "Steel-Toe Buff Leather",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "6, 7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "SHS-10",
+      "code": "SHS-10",
+      "name": "Anti Slip Shoes",
+      "category": "shoes",
+      "image": "images/products/PVC Rexin Shoes.webp",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "SRC Slip-Resistant Soles",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "6, 7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "SHS-11",
+      "code": "SHS-11",
+      "name": "Oil Resistant Shoes",
+      "category": "shoes",
+      "image": "images/products/Leather PU Shoes.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "Hydrocarbon-Resistant Sole",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "6, 7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "SHS-12",
+      "code": "SHS-12",
+      "name": "Electrical Safety Shoes",
+      "category": "shoes",
+      "image": "images/products/PVC High Ankle Shoes.jpg",
+      "description": "Industrial protective footwear built to withstand severe floor friction, heavy object drops, and structural punctures. Features sweat-absorbing linings and heel shock absorption cushioning.",
+      "features": [
+        "Hardened 200 Joules steel toe cap impact shields",
+        "Puncture resistant steel plate mid-soles (1100N protection)",
+        "Oil-resistant, acid-resistant, and anti-static outsoles",
+        "Cushioned dual-density insoles for standing comfort"
+      ],
+      "specs": {
+        "Upper Material": "Electrical Shockproof Insulated Upper",
+        "Sole Injected": "Vulcanized Slip-Resistant Rubber/PVC/PU",
+        "Standards": "IS 15298 and EN ISO 20345 Compliant",
+        "MOQ": "24 Pairs",
+        "Size Range": "6, 7, 8, 9, 10"
+      },
+      "apps": [
+        "Structural Engineering and Construction Sites",
+        "Automotive and Assembly Workshops",
+        "Oil Rig Inspections and Chemical Facilities",
+        "Logistics Hubs and Cargo Loading Docks"
+      ],
+      "colors": [
+        "Matte Black",
+        "Dark Brown"
+      ],
+      "moq": "24 Pairs"
+    },
+    {
+      "id": "HLM-01",
+      "code": "HLM-01",
+      "name": "Labour Helmet",
+      "category": "helmets",
+      "image": "images/products/Safety-helmet-SH-01.jpg",
+      "description": "Industrial head protection shell engineered for maximum lateral crush resistance and vertical drop protection in tough operational zones. Includes sweatbands and adjustable chin straps.",
+      "features": [
+        "Heavy shell molded from high-impact ABS / HDPE material",
+        "Shock absorbing inner crown structure",
+        "Universal side accessory slots for ear defenders and visors",
+        "Fully adjustable chin-strap with quick-release locks"
+      ],
+      "specs": {
+        "Shell Material": "High-Density Polyethylene (HDPE)",
+        "Model Name": "SH-01 Labour",
+        "Suspension System": "6-Point textile suspension with sweatband pads",
+        "Certification": "IS 2925 and EN 397 Standard Certified",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Commercial Building Construction Sites",
+        "Heavy Metal Fabrication Yards",
+        "Underground Mining and Tunnel Excavations",
+        "Electrical Line and Transformer Grid Maintenance"
+      ],
+      "colors": [
+        "Signal Yellow",
+        "Classic White",
+        "Safety Orange",
+        "Vibrant Blue"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "HLM-02",
+      "code": "HLM-02",
+      "name": "Ratchet Helmet",
+      "category": "helmets",
+      "image": "images/products/Safety-helmet-SH-02.jpg",
+      "description": "Industrial head protection shell engineered for maximum lateral crush resistance and vertical drop protection in tough operational zones. Includes sweatbands and adjustable chin straps.",
+      "features": [
+        "Heavy shell molded from high-impact ABS / HDPE material",
+        "Shock absorbing inner crown structure",
+        "Universal side accessory slots for ear defenders and visors",
+        "Fully adjustable chin-strap with quick-release locks"
+      ],
+      "specs": {
+        "Shell Material": "Impact ABS Polymer (Ratchet Dial)",
+        "Model Name": "SH-02 Rachit",
+        "Suspension System": "6-Point textile suspension with sweatband pads",
+        "Certification": "IS 2925 and EN 397 Standard Certified",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Commercial Building Construction Sites",
+        "Heavy Metal Fabrication Yards",
+        "Underground Mining and Tunnel Excavations",
+        "Electrical Line and Transformer Grid Maintenance"
+      ],
+      "colors": [
+        "Signal Yellow",
+        "Classic White",
+        "Safety Orange",
+        "Vibrant Blue"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "HLM-03",
+      "code": "HLM-03",
+      "name": "Torch Helmet",
+      "category": "helmets",
+      "image": "images/products/Safety-helmet-SH-03 torch.webp",
+      "description": "Industrial head protection shell engineered for maximum lateral crush resistance and vertical drop protection in tough operational zones. Includes sweatbands and adjustable chin straps.",
+      "features": [
+        "Heavy shell molded from high-impact ABS / HDPE material",
+        "Shock absorbing inner crown structure",
+        "Universal side accessory slots for ear defenders and visors",
+        "Fully adjustable chin-strap with quick-release locks"
+      ],
+      "specs": {
+        "Shell Material": "High-Density Polyethylene (HDPE) with Torch mount",
+        "Model Name": "SH-03 Torch",
+        "Suspension System": "6-Point textile suspension with sweatband pads",
+        "Certification": "IS 2925 and EN 397 Standard Certified",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Commercial Building Construction Sites",
+        "Heavy Metal Fabrication Yards",
+        "Underground Mining and Tunnel Excavations",
+        "Electrical Line and Transformer Grid Maintenance"
+      ],
+      "colors": [
+        "Signal Yellow",
+        "Classic White",
+        "Safety Orange",
+        "Vibrant Blue"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "HLM-04",
+      "code": "HLM-04",
+      "name": "Industrial Helmet",
+      "category": "helmets",
+      "image": "images/products/Safety-helmet-SH-01.jpg",
+      "description": "Industrial head protection shell engineered for maximum lateral crush resistance and vertical drop protection in tough operational zones. Includes sweatbands and adjustable chin straps.",
+      "features": [
+        "Heavy shell molded from high-impact ABS / HDPE material",
+        "Shock absorbing inner crown structure",
+        "Universal side accessory slots for ear defenders and visors",
+        "Fully adjustable chin-strap with quick-release locks"
+      ],
+      "specs": {
+        "Shell Material": "High-Density Polyethylene (HDPE)",
+        "Model Name": "SH-01 Industrial",
+        "Suspension System": "6-Point textile suspension with sweatband pads",
+        "Certification": "IS 2925 and EN 397 Standard Certified",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Commercial Building Construction Sites",
+        "Heavy Metal Fabrication Yards",
+        "Underground Mining and Tunnel Excavations",
+        "Electrical Line and Transformer Grid Maintenance"
+      ],
+      "colors": [
+        "Signal Yellow",
+        "Classic White",
+        "Safety Orange",
+        "Vibrant Blue"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "HLM-05",
+      "code": "HLM-05",
+      "name": "Construction Helmet",
+      "category": "helmets",
+      "image": "images/products/Safety-helmet-SH-02.jpg",
+      "description": "Industrial head protection shell engineered for maximum lateral crush resistance and vertical drop protection in tough operational zones. Includes sweatbands and adjustable chin straps.",
+      "features": [
+        "Heavy shell molded from high-impact ABS / HDPE material",
+        "Shock absorbing inner crown structure",
+        "Universal side accessory slots for ear defenders and visors",
+        "Fully adjustable chin-strap with quick-release locks"
+      ],
+      "specs": {
+        "Shell Material": "Impact ABS Polymer (Ratchet Dial)",
+        "Model Name": "SH-02 Construction",
+        "Suspension System": "6-Point textile suspension with sweatband pads",
+        "Certification": "IS 2925 and EN 397 Standard Certified",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Commercial Building Construction Sites",
+        "Heavy Metal Fabrication Yards",
+        "Underground Mining and Tunnel Excavations",
+        "Electrical Line and Transformer Grid Maintenance"
+      ],
+      "colors": [
+        "Signal Yellow",
+        "Classic White",
+        "Safety Orange",
+        "Vibrant Blue"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "HLM-06",
+      "code": "HLM-06",
+      "name": "Electrical Helmet",
+      "category": "helmets",
+      "image": "images/products/Safety-helmet-SH-01.jpg",
+      "description": "Industrial head protection shell engineered for maximum lateral crush resistance and vertical drop protection in tough operational zones. Includes sweatbands and adjustable chin straps.",
+      "features": [
+        "Heavy shell molded from high-impact ABS / HDPE material",
+        "Shock absorbing inner crown structure",
+        "Universal side accessory slots for ear defenders and visors",
+        "Fully adjustable chin-strap with quick-release locks"
+      ],
+      "specs": {
+        "Shell Material": "Unventilated Volt-Protective PVC",
+        "Model Name": "SH-01 Electrical",
+        "Suspension System": "6-Point textile suspension with sweatband pads",
+        "Certification": "IS 2925 and EN 397 Standard Certified",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Commercial Building Construction Sites",
+        "Heavy Metal Fabrication Yards",
+        "Underground Mining and Tunnel Excavations",
+        "Electrical Line and Transformer Grid Maintenance"
+      ],
+      "colors": [
+        "Signal Yellow",
+        "Classic White",
+        "Safety Orange",
+        "Vibrant Blue"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "HLM-07",
+      "code": "HLM-07",
+      "name": "Mining Helmet",
+      "category": "helmets",
+      "image": "images/products/Safety-helmet-SH-03 torch.webp",
+      "description": "Industrial head protection shell engineered for maximum lateral crush resistance and vertical drop protection in tough operational zones. Includes sweatbands and adjustable chin straps.",
+      "features": [
+        "Heavy shell molded from high-impact ABS / HDPE material",
+        "Shock absorbing inner crown structure",
+        "Universal side accessory slots for ear defenders and visors",
+        "Fully adjustable chin-strap with quick-release locks"
+      ],
+      "specs": {
+        "Shell Material": "HDPE with Cap Lamp Bracket",
+        "Model Name": "SH-03 Mining",
+        "Suspension System": "6-Point textile suspension with sweatband pads",
+        "Certification": "IS 2925 and EN 397 Standard Certified",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Commercial Building Construction Sites",
+        "Heavy Metal Fabrication Yards",
+        "Underground Mining and Tunnel Excavations",
+        "Electrical Line and Transformer Grid Maintenance"
+      ],
+      "colors": [
+        "Signal Yellow",
+        "Classic White",
+        "Safety Orange",
+        "Vibrant Blue"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "HLM-08",
+      "code": "HLM-08",
+      "name": "Ventilated Helmet",
+      "category": "helmets",
+      "image": "images/products/Safety-helmet-SH-02.jpg",
+      "description": "Industrial head protection shell engineered for maximum lateral crush resistance and vertical drop protection in tough operational zones. Includes sweatbands and adjustable chin straps.",
+      "features": [
+        "Heavy shell molded from high-impact ABS / HDPE material",
+        "Shock absorbing inner crown structure",
+        "Universal side accessory slots for ear defenders and visors",
+        "Fully adjustable chin-strap with quick-release locks"
+      ],
+      "specs": {
+        "Shell Material": "ABS Polymer with Slide Air Vents",
+        "Model Name": "SH-02 Ventilated",
+        "Suspension System": "6-Point textile suspension with sweatband pads",
+        "Certification": "IS 2925 and EN 397 Standard Certified",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Commercial Building Construction Sites",
+        "Heavy Metal Fabrication Yards",
+        "Underground Mining and Tunnel Excavations",
+        "Electrical Line and Transformer Grid Maintenance"
+      ],
+      "colors": [
+        "Signal Yellow",
+        "Classic White",
+        "Safety Orange",
+        "Vibrant Blue"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "FAL-01",
+      "code": "FAL-01",
+      "name": "Safety Harness",
+      "category": "fall",
+      "image": "images/products/Safety Harness elastic 15mm.jpg",
+      "description": "High-tensile fall arrest equipment designed to offer reliable protection and suspension support for operations at heights. Built using zinc-plated steel alloy hardware.",
+      "features": [
+        "Made from 44mm high-tensile polyester safety webbing",
+        "Dorsal fall-arrest D-rings and chest anchoring loops",
+        "Fully adjustable shoulder, chest, and thigh straps",
+        "Integrated fall indicator threads for inspection audits"
+      ],
+      "specs": {
+        "Webbing Material": "High-Tensile Virgin Polyester",
+        "Metal Componentry": "Alloy Steel Zinc-Plated buckles",
+        "Standards": "IS 3521 and EN 361 Fall Arrest Standards Compliant",
+        "Type": "Class P Fall Protection",
+        "Attachment": "DORSAL | LATERAL",
+        "WLL": "140 KG",
+        "Features": "Corrosion-resistant metal fittings, Retro-reflective thread",
+        "MOQ": "25 Pcs"
+      },
+      "apps": [
+        "High-rise Building Window Cleaners",
+        "Scaffolding Erector Crews",
+        "Telecommunication Tower Maintenance Technicians",
+        "Bridge Riggers and Overhead Crane Operators"
+      ],
+      "colors": [
+        "Vibrant Green / Black",
+        "Safety Orange"
+      ],
+      "moq": "25 Pcs"
+    },
+    {
+      "id": "FAL-02",
+      "code": "FAL-02",
+      "name": "Full Body Harness",
+      "category": "fall",
+      "image": "images/products/Safety Harness elastic 15mm.jpg",
+      "description": "High-tensile fall arrest equipment designed to offer reliable protection and suspension support for operations at heights. Built using zinc-plated steel alloy hardware.",
+      "features": [
+        "Made from 44mm high-tensile polyester safety webbing",
+        "Dorsal fall-arrest D-rings and chest anchoring loops",
+        "Fully adjustable shoulder, chest, and thigh straps",
+        "Integrated fall indicator threads for inspection audits"
+      ],
+      "specs": {
+        "Webbing Material": "High-Tensile Virgin Polyester",
+        "Metal Componentry": "Alloy Steel Zinc-Plated buckles",
+        "Standards": "IS 3521 and EN 361 Fall Arrest Standards Compliant",
+        "Type": "Class P Work Positioning",
+        "Attachment": "Multi-Point Anchoring",
+        "WLL": "140 KG",
+        "Features": "CED-coated metal components, Breathable padding",
+        "MOQ": "25 Pcs"
+      },
+      "apps": [
+        "High-rise Building Window Cleaners",
+        "Scaffolding Erector Crews",
+        "Telecommunication Tower Maintenance Technicians",
+        "Bridge Riggers and Overhead Crane Operators"
+      ],
+      "colors": [
+        "Vibrant Green / Black",
+        "Safety Orange"
+      ],
+      "moq": "25 Pcs"
+    },
+    {
+      "id": "FAL-03",
+      "code": "FAL-03",
+      "name": "Double Lanyard",
+      "category": "fall",
+      "image": "images/products/FAL-03.png",
+      "description": "High-tensile fall arrest equipment designed to offer reliable protection and suspension support for operations at heights. Built using zinc-plated steel alloy hardware.",
+      "features": [
+        "Made from 44mm high-tensile polyester safety webbing",
+        "Dorsal fall-arrest D-rings and chest anchoring loops",
+        "Fully adjustable shoulder, chest, and thigh straps",
+        "Integrated fall indicator threads for inspection audits"
+      ],
+      "specs": {
+        "Webbing Material": "High-Tensile Virgin Polyester",
+        "Metal Componentry": "Alloy Steel Zinc-Plated buckles",
+        "Standards": "IS 3521 and EN 361 Fall Arrest Standards Compliant",
+        "Type": "Shock-Absorbing Webbing Lanyard",
+        "Breaking Strength": ">22kN",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "High-rise Building Window Cleaners",
+        "Scaffolding Erector Crews",
+        "Telecommunication Tower Maintenance Technicians",
+        "Bridge Riggers and Overhead Crane Operators"
+      ],
+      "colors": [
+        "Vibrant Green / Black",
+        "Safety Orange"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "FAL-04",
+      "code": "FAL-04",
+      "name": "Shock Absorbing Lanyard",
+      "category": "fall",
+      "image": "images/products/FAL-04.png",
+      "description": "High-tensile fall arrest equipment designed to offer reliable protection and suspension support for operations at heights. Built using zinc-plated steel alloy hardware.",
+      "features": [
+        "Made from 44mm high-tensile polyester safety webbing",
+        "Dorsal fall-arrest D-rings and chest anchoring loops",
+        "Fully adjustable shoulder, chest, and thigh straps",
+        "Integrated fall indicator threads for inspection audits"
+      ],
+      "specs": {
+        "Webbing Material": "High-Tensile Virgin Polyester",
+        "Metal Componentry": "Alloy Steel Zinc-Plated buckles",
+        "Standards": "IS 3521 and EN 361 Fall Arrest Standards Compliant",
+        "Type": "Polyester Webbing Lanyard",
+        "Absorber Pack": "Tear-Web Energy Absorber",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "High-rise Building Window Cleaners",
+        "Scaffolding Erector Crews",
+        "Telecommunication Tower Maintenance Technicians",
+        "Bridge Riggers and Overhead Crane Operators"
+      ],
+      "colors": [
+        "Vibrant Green / Black",
+        "Safety Orange"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "FAL-05",
+      "code": "FAL-05",
+      "name": "Elastic Belt",
+      "category": "fall",
+      "image": "images/products/FAL-05.png",
+      "description": "High-tensile fall arrest equipment designed to offer reliable protection and suspension support for operations at heights. Built using zinc-plated steel alloy hardware.",
+      "features": [
+        "Made from 44mm high-tensile polyester safety webbing",
+        "Dorsal fall-arrest D-rings and chest anchoring loops",
+        "Fully adjustable shoulder, chest, and thigh straps",
+        "Integrated fall indicator threads for inspection audits"
+      ],
+      "specs": {
+        "Webbing Material": "High-Tensile Virgin Polyester",
+        "Metal Componentry": "Alloy Steel Zinc-Plated buckles",
+        "Standards": "IS 3521 and EN 361 Fall Arrest Standards Compliant",
+        "Type": "Lumbar Support Positioning Belt",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "High-rise Building Window Cleaners",
+        "Scaffolding Erector Crews",
+        "Telecommunication Tower Maintenance Technicians",
+        "Bridge Riggers and Overhead Crane Operators"
+      ],
+      "colors": [
+        "Vibrant Green / Black",
+        "Safety Orange"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "FAL-06",
+      "code": "FAL-06",
+      "name": "Life Safety Jacket",
+      "category": "fall",
+      "image": "images/products/Life Safety Jacket.jpg",
+      "description": "High-tensile fall arrest equipment designed to offer reliable protection and suspension support for operations at heights. Built using zinc-plated steel alloy hardware.",
+      "features": [
+        "Made from 44mm high-tensile polyester safety webbing",
+        "Dorsal fall-arrest D-rings and chest anchoring loops",
+        "Fully adjustable shoulder, chest, and thigh straps",
+        "Integrated fall indicator threads for inspection audits"
+      ],
+      "specs": {
+        "Webbing Material": "High-Tensile Virgin Polyester",
+        "Metal Componentry": "Alloy Steel Zinc-Plated buckles",
+        "Standards": "IS 3521 and EN 361 Fall Arrest Standards Compliant",
+        "Type": "Marine Life Safety Vest",
+        "Material": "Floating Foam / Nylon",
+        "MOQ": "25 Pcs"
+      },
+      "apps": [
+        "High-rise Building Window Cleaners",
+        "Scaffolding Erector Crews",
+        "Telecommunication Tower Maintenance Technicians",
+        "Bridge Riggers and Overhead Crane Operators"
+      ],
+      "colors": [
+        "Vibrant Green / Black",
+        "Safety Orange"
+      ],
+      "moq": "25 Pcs"
+    },
+    {
+      "id": "FAL-07",
+      "code": "FAL-07",
+      "name": "Cross Safety Jacket",
+      "category": "fall",
+      "image": "images/products/FAL-07.png",
+      "description": "High-tensile fall arrest equipment designed to offer reliable protection and suspension support for operations at heights. Built using zinc-plated steel alloy hardware.",
+      "features": [
+        "Made from 44mm high-tensile polyester safety webbing",
+        "Dorsal fall-arrest D-rings and chest anchoring loops",
+        "Fully adjustable shoulder, chest, and thigh straps",
+        "Integrated fall indicator threads for inspection audits"
+      ],
+      "specs": {
+        "Webbing Material": "High-Tensile Virgin Polyester",
+        "Metal Componentry": "Alloy Steel Zinc-Plated buckles",
+        "Standards": "IS 3521 and EN 361 Fall Arrest Standards Compliant",
+        "Type": "Cross-Back Safety Webbing Vest",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "High-rise Building Window Cleaners",
+        "Scaffolding Erector Crews",
+        "Telecommunication Tower Maintenance Technicians",
+        "Bridge Riggers and Overhead Crane Operators"
+      ],
+      "colors": [
+        "Vibrant Green / Black",
+        "Safety Orange"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-01",
+      "code": "ROD-01",
+      "name": "Traffic Cone",
+      "category": "road",
+      "image": "images/products/ROD-01.png",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Fluorescent Orange PVC / Safety Cone",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-02",
+      "code": "ROD-02",
+      "name": "Road Barrier",
+      "category": "road",
+      "image": "images/products/Road Barrier.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "UV-Stabilized Polyethylene Dividers",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-03",
+      "code": "ROD-03",
+      "name": "PVC Chain",
+      "category": "road",
+      "image": "images/products/PVC Chain.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Lightweight Highly Visible Plastic",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-04",
+      "code": "ROD-04",
+      "name": "Road Stud",
+      "category": "road",
+      "image": "images/products/Road Stud.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Heavy Duty Aluminum Cat-Eyes",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-05",
+      "code": "ROD-05",
+      "name": "Speed Breaker",
+      "category": "road",
+      "image": "images/products/Speed Breaker.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Modular Heavy-Duty Vulcanized Rubber",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-06",
+      "code": "ROD-06",
+      "name": "Convex Mirror",
+      "category": "road",
+      "image": "images/products/Convex Mirror.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Polycarbonate Convex Lens / Blind Spot",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-07",
+      "code": "ROD-07",
+      "name": "Q Manager",
+      "category": "road",
+      "image": "images/products/Q Manager.webp",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Stainless Steel Retractable Belt Stand",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-08",
+      "code": "ROD-08",
+      "name": "Spring Post",
+      "category": "road",
+      "image": "images/products/Spring Post.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Highly Resilient PU Post",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-09",
+      "code": "ROD-09",
+      "name": "Floor Marking Tape",
+      "category": "road",
+      "image": "images/products/Floor Marking Tape.webp",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Self-Adhesive Heavy Duty Vinyl",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-10",
+      "code": "ROD-10",
+      "name": "Retro Reflective Tape",
+      "category": "road",
+      "image": "images/products/Retro Reflective Tape.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Microprismatic Reflective Film",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-11",
+      "code": "ROD-11",
+      "name": "Caution Tape",
+      "category": "road",
+      "image": "images/products/Caution Tape.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Printed Non-Adhesive Polyethylene",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-12",
+      "code": "ROD-12",
+      "name": "Solar Blinker",
+      "category": "road",
+      "image": "images/products/Solar Blinker.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "LED Solar Warning Blinker",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-13",
+      "code": "ROD-13",
+      "name": "Warning Light",
+      "category": "road",
+      "image": "images/products/Solar Blinker.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "LED Solar Flashing Beacon",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "ROD-14",
+      "code": "ROD-14",
+      "name": "Wet Floor Sign",
+      "category": "road",
+      "image": "images/products/Caution Tape.jpg",
+      "description": "Heavy-duty road safety delineator designed to regulate traffic control, restrict restricted zones, and warn pedestrians in industrial, commercial, and roadway sites.",
+      "features": [
+        "Fluorescent pigments and reflective bands for maximum visibility",
+        "UV-stabilized weather-resistant material blends",
+        "Heavy stable base anchors to resist strong wind currents",
+        "Impact resilience to absorb light vehicular crashes"
+      ],
+      "specs": {
+        "Material": "Highly Visible Yellow A-Frame Sign",
+        "Reflector Bands": "High-intensity microprismatic reflective sheets",
+        "Weather Proofing": "Tested under extreme heat and sub-zero temperatures",
+        "MOQ": "50 Pcs"
+      },
+      "apps": [
+        "Municipal Road Works and Highway Diversions",
+        "Industrial Factory Floor Layout Delineations",
+        "Corporate Office Parking Lot Operations",
+        "Commercial Plaza Entrance Lane Controls"
+      ],
+      "colors": [
+        "Fluorescent Orange",
+        "Yellow / Black Delineations",
+        "Caution Red"
+      ],
+      "moq": "50 Pcs"
+    },
+    {
+      "id": "WLD-01",
+      "code": "WLD-01",
+      "name": "Welding Helmet",
+      "category": "welding",
+      "image": "images/products/Welding Helmet.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Auto-Darkening Thermoplastic",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-02",
+      "code": "WLD-02",
+      "name": "Face Shield",
+      "category": "welding",
+      "image": "images/products/Face Shield.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Polycarbonate Grinding Splash Shield",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-03",
+      "code": "WLD-03",
+      "name": "Leather Apron",
+      "category": "welding",
+      "image": "images/products/PVC Apron.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Genuine Split Cowhide Leather",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-04",
+      "code": "WLD-04",
+      "name": "PVC Apron",
+      "category": "welding",
+      "image": "images/products/PVC Apron.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Fluid & Acid Resistant PVC",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-05",
+      "code": "WLD-05",
+      "name": "Hand Sleeve",
+      "category": "welding",
+      "image": "images/products/Hand Sleeve.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Split Cowhide Arm Protectors",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-06",
+      "code": "WLD-06",
+      "name": "Leg Guard",
+      "category": "welding",
+      "image": "images/products/Leg Guard.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Leather Welding Spats Leg/Ankle Guard",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-07",
+      "code": "WLD-07",
+      "name": "Shoulder Pad",
+      "category": "welding",
+      "image": "images/products/Shoulder Pad.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Genuine Cushion Leather Pad",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-08",
+      "code": "WLD-08",
+      "name": "Welding Glass",
+      "category": "welding",
+      "image": "images/products/Welding Glass.webp",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Dark Green Shade Replacement Lens",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-09",
+      "code": "WLD-09",
+      "name": "Welding Cable",
+      "category": "welding",
+      "image": "images/products/Welding Cable.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Flexible Rubber-Jacketed Copper Core",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-10",
+      "code": "WLD-10",
+      "name": "Electrode Holder",
+      "category": "welding",
+      "image": "images/products/Electrode Holder.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Heavy Duty Insulated Brass Clamps",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-11",
+      "code": "WLD-11",
+      "name": "Gas Hose Pipe",
+      "category": "welding",
+      "image": "images/products/Gas Hose Pipe.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "High Pressure Dual Gas Rubber Hose",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "WLD-12",
+      "code": "WLD-12",
+      "name": "Fiber Hand Screen",
+      "category": "welding",
+      "image": "images/products/Fiber Hand Screen.jpg",
+      "description": "Flame-retardant welding safety protective equipment engineered to guard personnel from intense spark spatter, UV/IR arc radiation, high-voltage currents, and heat scaling.",
+      "features": [
+        "Made from premium flame-retardant split cowhide leather / thermoplastic",
+        "Reinforced Kevlar stitching for leather seams to prevent tears",
+        "Fully adjustable suspenders and hook-and-loop straps",
+        "Thermal insulation layering to shield skin from heat transfer"
+      ],
+      "specs": {
+        "Shield Material": "Hand-Held Vulcanized Fiber Shield",
+        "Stitching Threads": "Premium 3-ply Kevlar flame-resistant stitching",
+        "Certifications": "EN 175 and EN 11611 welding safety compliant",
+        "MOQ": "100 Pcs"
+      },
+      "apps": [
+        "Heavy Metal Fabrication Workshops",
+        "Automotive Chassis Welding Lines",
+        "Structural Bridge Girder Joints",
+        "General Maintenance Piping Operations"
+      ],
+      "colors": [
+        "Amber / Charcoal Gray",
+        "Golden Yellow Cowhide"
+      ],
+      "moq": "100 Pcs"
+    },
+    {
+      "id": "BOPP-01",
+      "code": "BOPP-01",
+      "name": "BOPP Bag (12 × 16)",
+      "category": "bopp",
+      "image": "images/products/bopp_bags/WhatsApp Image 2026-06-25 at 11.04.46.jpeg",
+      "description": "Premium-grade Biaxially Oriented Polypropylene (BOPP) woven bag. Features high-definition multi-color printing, superior moisture barrier protection, and high tensile strength. Excellent for bulk packaging of rice, flour, animal feed, and industrial materials.",
+      "features": [
+        "High-gloss print finish with premium aesthetic appeal",
+        "Excellent barrier against moisture, humidity, and dust",
+        "Reinforced stitching for heavy-duty payload stability",
+        "Anti-slip properties for safe vertical stacking and logistics"
+      ],
+      "specs": {
+        "Material": "Biaxially Oriented Polypropylene (BOPP) & Woven PP",
+        "Size (Inches)": "12 × 16",
+        "Thickness": "20 Micron",
+        "Tensile Strength": "High Industrial Grade",
+        "MOQ": "10,000 Pcs",
+        "Closing/Sealing": "Single/Double Folded and Bottom Stitched"
+      },
+      "apps": [
+        "Agricultural Grains & Seed Packaging",
+        "Animal Feed & Pet Food Bulk Bags",
+        "Flour, Sugar, and Salt Milling Industries",
+        "Chemicals, Minerals, and Construction Powders"
+      ],
+      "colors": [
+        "Multi-color Printed",
+        "Custom Brand Graphics"
+      ],
+      "moq": "10,000 Pcs"
+    },
+    {
+      "id": "BOPP-02",
+      "code": "BOPP-02",
+      "name": "BOPP Bag (9 × 16)",
+      "category": "bopp",
+      "image": "images/products/bopp_bags/WhatsApp Image 2026-06-25 at 11.04.48 (1).jpeg",
+      "description": "Premium-grade Biaxially Oriented Polypropylene (BOPP) woven bag. Features high-definition multi-color printing, superior moisture barrier protection, and high tensile strength. Excellent for bulk packaging of rice, flour, animal feed, and industrial materials.",
+      "features": [
+        "High-gloss print finish with premium aesthetic appeal",
+        "Excellent barrier against moisture, humidity, and dust",
+        "Reinforced stitching for heavy-duty payload stability",
+        "Anti-slip properties for safe vertical stacking and logistics"
+      ],
+      "specs": {
+        "Material": "Biaxially Oriented Polypropylene (BOPP) & Woven PP",
+        "Size (Inches)": "9 × 16",
+        "Thickness": "18 Micron",
+        "Tensile Strength": "High Industrial Grade",
+        "MOQ": "10,000 Pcs",
+        "Closing/Sealing": "Single/Double Folded and Bottom Stitched"
+      },
+      "apps": [
+        "Agricultural Grains & Seed Packaging",
+        "Animal Feed & Pet Food Bulk Bags",
+        "Flour, Sugar, and Salt Milling Industries",
+        "Chemicals, Minerals, and Construction Powders"
+      ],
+      "colors": [
+        "Multi-color Printed",
+        "Custom Brand Graphics"
+      ],
+      "moq": "10,000 Pcs"
+    },
+    {
+      "id": "BOPP-03",
+      "code": "BOPP-03",
+      "name": "BOPP Bag (10 × 14)",
+      "category": "bopp",
+      "image": "images/products/bopp_bags/WhatsApp Image 2026-06-25 at 11.04.48 (2).jpeg",
+      "description": "Premium-grade Biaxially Oriented Polypropylene (BOPP) woven bag. Features high-definition multi-color printing, superior moisture barrier protection, and high tensile strength. Excellent for bulk packaging of rice, flour, animal feed, and industrial materials.",
+      "features": [
+        "High-gloss print finish with premium aesthetic appeal",
+        "Excellent barrier against moisture, humidity, and dust",
+        "Reinforced stitching for heavy-duty payload stability",
+        "Anti-slip properties for safe vertical stacking and logistics"
+      ],
+      "specs": {
+        "Material": "Biaxially Oriented Polypropylene (BOPP) & Woven PP",
+        "Size (Inches)": "10 × 14",
+        "Thickness": "18 Micron",
+        "Tensile Strength": "High Industrial Grade",
+        "MOQ": "10,000 Pcs",
+        "Closing/Sealing": "Single/Double Folded and Bottom Stitched"
+      },
+      "apps": [
+        "Agricultural Grains & Seed Packaging",
+        "Animal Feed & Pet Food Bulk Bags",
+        "Flour, Sugar, and Salt Milling Industries",
+        "Chemicals, Minerals, and Construction Powders"
+      ],
+      "colors": [
+        "Multi-color Printed",
+        "Custom Brand Graphics"
+      ],
+      "moq": "10,000 Pcs"
+    },
+    {
+      "id": "BOPP-04",
+      "code": "BOPP-04",
+      "name": "BOPP Bag (12 × 16)",
+      "category": "bopp",
+      "image": "images/products/bopp_bags/WhatsApp Image 2026-06-25 at 11.04.48.jpeg",
+      "description": "Premium-grade Biaxially Oriented Polypropylene (BOPP) woven bag. Features high-definition multi-color printing, superior moisture barrier protection, and high tensile strength. Excellent for bulk packaging of rice, flour, animal feed, and industrial materials.",
+      "features": [
+        "High-gloss print finish with premium aesthetic appeal",
+        "Excellent barrier against moisture, humidity, and dust",
+        "Reinforced stitching for heavy-duty payload stability",
+        "Anti-slip properties for safe vertical stacking and logistics"
+      ],
+      "specs": {
+        "Material": "Biaxially Oriented Polypropylene (BOPP) & Woven PP",
+        "Size (Inches)": "12 × 16",
+        "Thickness": "20 Micron",
+        "Tensile Strength": "High Industrial Grade",
+        "MOQ": "10,000 Pcs",
+        "Closing/Sealing": "Single/Double Folded and Bottom Stitched"
+      },
+      "apps": [
+        "Agricultural Grains & Seed Packaging",
+        "Animal Feed & Pet Food Bulk Bags",
+        "Flour, Sugar, and Salt Milling Industries",
+        "Chemicals, Minerals, and Construction Powders"
+      ],
+      "colors": [
+        "Multi-color Printed",
+        "Custom Brand Graphics"
+      ],
+      "moq": "10,000 Pcs"
+    },
+    {
+      "id": "BOPP-05",
+      "code": "BOPP-05",
+      "name": "BOPP Bag (14 × 18)",
+      "category": "bopp",
+      "image": "images/products/bopp_bags/WhatsApp Image 2026-06-25 at 11.04.49 (1).jpeg",
+      "description": "Premium-grade Biaxially Oriented Polypropylene (BOPP) woven bag. Features high-definition multi-color printing, superior moisture barrier protection, and high tensile strength. Excellent for bulk packaging of rice, flour, animal feed, and industrial materials.",
+      "features": [
+        "High-gloss print finish with premium aesthetic appeal",
+        "Excellent barrier against moisture, humidity, and dust",
+        "Reinforced stitching for heavy-duty payload stability",
+        "Anti-slip properties for safe vertical stacking and logistics"
+      ],
+      "specs": {
+        "Material": "Biaxially Oriented Polypropylene (BOPP) & Woven PP",
+        "Size (Inches)": "14 × 18",
+        "Thickness": "20 Micron",
+        "Tensile Strength": "High Industrial Grade",
+        "MOQ": "10,000 Pcs",
+        "Closing/Sealing": "Single/Double Folded and Bottom Stitched"
+      },
+      "apps": [
+        "Agricultural Grains & Seed Packaging",
+        "Animal Feed & Pet Food Bulk Bags",
+        "Flour, Sugar, and Salt Milling Industries",
+        "Chemicals, Minerals, and Construction Powders"
+      ],
+      "colors": [
+        "Multi-color Printed",
+        "Custom Brand Graphics"
+      ],
+      "moq": "10,000 Pcs"
+    },
+    {
+      "id": "CAM-01",
+      "code": "CAM-01",
+      "name": "Dome HD Security Camera",
+      "category": "cctv",
+      "image": "images/WhatsApp Image 2026-07-02 at 21.55.20.jpeg",
+      "description": "High-definition dome security camera designed for indoor and outdoor surveillance. Features night vision, wide-angle lens, and vandal-resistant housing.",
+      "features": [
+        "1080p Full HD Video Recording",
+        "Smart IR Night Vision up to 30 meters",
+        "IP67 Weatherproof and Dustproof Rating",
+        "Wide 105° Horizontal Viewing Angle"
+      ],
+      "specs": {
+        "Resolution": "2MP / 4MP Full HD Options",
+        "Sensor Type": "1/2.8\" Progressive Scan CMOS",
+        "Lens focal length": "2.8mm / 3.6mm Fixed Lens",
+        "Housing": "Metal Vandal-Proof Dome (IK10)",
+        "MOQ": "10 Pcs",
+        "Connectivity": "PoE RJ45 or Analog BNC"
+      },
+      "apps": [
+        "Office Passageways and Reception Areas",
+        "Commercial Building Entrance Halls",
+        "Retail Stores and Bank Branches",
+        "Residential Hallways and Lobbies"
+      ],
+      "colors": [
+        "Pearl White",
+        "Matte Black"
+      ],
+      "moq": "10 Pcs"
+    },
+    {
+      "id": "CAM-02",
+      "code": "CAM-02",
+      "name": "Bullet Outdoor Security Camera",
+      "category": "cctv",
+      "image": "images/WhatsApp Image 2026-07-02 at 21.55.20 (1).jpeg",
+      "description": "Long-range weatherproof bullet security camera. Specially designed for perimeter surveillance, parking yards, and outdoor monitoring with high-intensity infrared LEDs.",
+      "features": [
+        "Advanced Motion Detection & Smart Alerts",
+        "Long-Range Night Vision up to 50 meters",
+        "Sunshield integrated weatherguard hood",
+        "Supports H.265+ high efficiency compression"
+      ],
+      "specs": {
+        "Resolution": "4MP / 8MP 4K Ultra HD",
+        "Sensor Type": "1/1.8\" Low-Light CMOS Sensor",
+        "Lens focal length": "4.0mm / 6.0mm Narrow/Deep Field",
+        "Housing": "IP67 Heavy-Duty Aluminum Bullet",
+        "MOQ": "10 Pcs",
+        "Connectivity": "PoE / 12V DC power jack"
+      },
+      "apps": [
+        "Industrial Factory Perimeters",
+        "Warehouses Loading Bays and Cargo Docks",
+        "Parking Lots and Driveways",
+        "Corporate Boundary Walls"
+      ],
+      "colors": [
+        "White / Black accents"
+      ],
+      "moq": "10 Pcs"
+    },
+    {
+      "id": "CAM-03",
+      "code": "CAM-03",
+      "name": "PTZ Speed Dome Camera",
+      "category": "cctv",
+      "image": "images/WhatsApp Image 2026-07-02 at 21.55.21.jpeg",
+      "description": "Professional high-speed Pan-Tilt-Zoom (PTZ) camera with powerful optical zoom capabilities. Perfect for large open areas requiring active tracking and detail capture.",
+      "features": [
+        "360° Endless Pan and -15° to 90° Tilt",
+        "Powerful 25x Optical Zoom, 16x Digital Zoom",
+        "Auto-tracking of moving vehicles and humans",
+        "Ultra low-light performance (DarkFighter technology)"
+      ],
+      "specs": {
+        "Resolution": "4MP Quad HD",
+        "Optical Zoom": "25x Zoom Lens (4.8mm to 120mm)",
+        "IR Range": "Up to 100 meters smart IR",
+        "Frame Rate": "60fps high speed recording",
+        "MOQ": "5 Pcs",
+        "Connectivity": "PoE+ (802.3at) / 24VAC"
+      },
+      "apps": [
+        "City Center Surveillance",
+        "Large Industrial Sites and Power Plants",
+        "Public Parks and Construction Site Yards",
+        "Sports Arenas and Stadium Fields"
+      ],
+      "colors": [
+        "Signal White"
+      ],
+      "moq": "5 Pcs"
+    },
+    {
+      "id": "CAM-04",
+      "code": "CAM-04",
+      "name": "Wireless IP Smart Camera",
+      "category": "cctv",
+      "image": "images/WhatsApp Image 2026-07-02 at 21.55.22.jpeg",
+      "description": "Smart Wi-Fi security camera for quick deployment. Features two-way audio talkback, localized SD card storage, and cloud integration with mobile application remote control.",
+      "features": [
+        "Dual-Band Wi-Fi (2.4GHz / 5GHz) connectivity",
+        "Two-Way Audio with built-in mic and speaker",
+        "PIR Motion detection with human heat sensing",
+        "Cloud Storage and MicroSD Card support (up to 256GB)"
+      ],
+      "specs": {
+        "Resolution": "3MP Super HD",
+        "Sensor Type": "1/3\" Progressive CMOS Sensor",
+        "Audio": "Intercom two-way talkback enabled",
+        "Storage Support": "MicroSD card slot + Cloud subscription",
+        "MOQ": "15 Pcs",
+        "Power Source": "5V DC Micro-USB / Rechargeable Battery"
+      },
+      "apps": [
+        "Small Office Cabins and Server Rooms",
+        "Retail Cash Counters and Safes",
+        "Home Entrance and Nursery Rooms",
+        "Temporary Event Booths and Kiosks"
+      ],
+      "colors": [
+        "Arctic White",
+        "Deep Black"
+      ],
+      "moq": "15 Pcs"
+    }
+  ]
 }
