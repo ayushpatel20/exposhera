@@ -1,0 +1,38 @@
+{
+  "branding": {
+    "phone1": "+91 95603 93262",
+    "phone2": "+91 96674 16082",
+    "email": "Hrd.exposherasecurityforce@gmail.com",
+    "address": "KH No 1117, Ground Floor, Street No 18, Rithala, Near Rithala Metro Station, Delhi - 110085"
+  },
+  "hero": {
+    "slide1": {
+      "badge": "24/7 Protection Guaranteed",
+      "title_span": "Your Safety",
+      "title_br": "Our Utmost Priority",
+      "desc": "India's premier government recognized security agency delivering elite protection solutions to safeguard your lives, homes, and corporate assets.",
+      "bg": "images/hero_bg1.png"
+    },
+    "slide2": {
+      "badge": "Elite Close Protection",
+      "title_span": "Executive Bouncers",
+      "title_br": "& Armed Tactical Squads",
+      "desc": "Rigorously trained, background-verified security guards and licensed armed gunman available on quick deployment anywhere in NCR.",
+      "bg": "images/service_bouncer.png"
+    },
+    "slide3": {
+      "badge": "Quality Assured",
+      "title_span": "PSARA Compliant",
+      "title_br": "ISO 9001:2015 Agency",
+      "desc": "Adhering strictly to labor laws, regulatory compliance parameters, and physical fitness guidelines to set safety benchmarks.",
+      "bg": "images/about_company.png"
+    }
+  },
+  "about": {
+    "title_span": "Exposhera",
+    "title_br": "Security Force",
+    "desc_p1": "Exposhera Security Force Pvt. Ltd. is a premier security solutions provider based in Delhi NCR. We deliver highly customized and structured security solutions designed for multi-layered safeguarding operations.",
+    "desc_p2": "We specialize in providing high-caliber security guards, executive bouncers, armed gunmen, corporate asset protection, and safety equipment distribution matching IS/EN standards.",
+    "bg": "images/about_company.png"
+  }
+}

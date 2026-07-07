@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -609,6 +609,9 @@
                 <button class="admin-tab-btn" id="tabUsers" onclick="switchAdminTab('users')">
                     <i class="fas fa-users-cog"></i> Users
                 </button>
+                <button class="admin-tab-btn" id="tabContent" onclick="switchAdminTab('content')">
+                    <i class="fas fa-edit"></i> Edit Content
+                </button>
             </div>
 
             <!-- Enquiries Tab -->
@@ -678,10 +681,111 @@
                                 <!-- Rows injected dynamically -->
                             </tbody>
                         </table>
-                    </div>
-                </div>
             </div>
 
+            <!-- Edit Content Tab -->
+            <div id="adminTabContent" class="admin-tab-panel" style="display:none;">
+                <div class="table-panel" style="padding:25px;">
+                    <h3 style="color:var(--text-white); font-size:1.2rem; font-family:'Outfit', sans-serif; margin-bottom:20px; border-bottom:1px solid rgba(255,255,255,0.08); padding-bottom:10px;">
+                        <i class="fas fa-edit" style="color:var(--accent);"></i> Manage Site Content &amp; Images
+                    </h3>
+                    
+                    <form id="cmsForm" style="display:flex; flex-direction:column; gap:25px;">
+                        <!-- Branding & Contact -->
+                        <div style="background:rgba(255,255,255,0.02); padding:20px; border-radius:14px; border:1px solid rgba(255,255,255,0.04);">
+                            <h4 style="color:var(--accent); margin-bottom:15px; font-weight:700;"><i class="fas fa-address-book"></i> Branding &amp; Contact Info</h4>
+                            <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:15px;">
+                                <div class="input-group" style="margin:0;">
+                                    <label>Primary Phone</label>
+                                    <div class="input-wrapper"><i class="fas fa-phone"></i><input type="text" id="cms-phone1" required></div>
+                                </div>
+                                <div class="input-group" style="margin:0;">
+                                    <label>Secondary Phone</label>
+                                    <div class="input-wrapper"><i class="fas fa-phone"></i><input type="text" id="cms-phone2" required></div>
+                                </div>
+                                <div class="input-group" style="margin:0;">
+                                    <label>Primary Email</label>
+                                    <div class="input-wrapper"><i class="fas fa-envelope"></i><input type="email" id="cms-email" required></div>
+                                </div>
+                            </div>
+                            <div class="input-group" style="margin-top:15px; margin-bottom:0;">
+                                <label>Corporate Address</label>
+                                <div class="input-wrapper"><i class="fas fa-map-marker-alt"></i><input type="text" id="cms-address" required></div>
+                            </div>
+                        </div>
+
+                        <!-- Hero Carousel -->
+                        <div style="background:rgba(255,255,255,0.02); padding:20px; border-radius:14px; border:1px solid rgba(255,255,255,0.04);">
+                            <h4 style="color:var(--accent); margin-bottom:15px; font-weight:700;"><i class="fas fa-images"></i> Home Page Hero Slider</h4>
+                            
+                            <!-- Slide 1 -->
+                            <div style="border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom:15px; margin-bottom:15px;">
+                                <h5 style="color:var(--text-white); margin-bottom:10px;">Slide 1 (Main Banner)</h5>
+                                <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:15px;">
+                                    <div class="input-group" style="margin:0;"><label>Badge Text</label><div class="input-wrapper"><i class="fas fa-tag"></i><input type="text" id="cms-slide1-badge"></div></div>
+                                    <div class="input-group" style="margin:0;"><label>Title (Orange Highlight)</label><div class="input-wrapper"><i class="fas fa-heading"></i><input type="text" id="cms-slide1-title-span"></div></div>
+                                    <div class="input-group" style="margin:0;"><label>Title (White Text)</label><div class="input-wrapper"><i class="fas fa-heading"></i><input type="text" id="cms-slide1-title-br"></div></div>
+                                </div>
+                                <div style="display:grid; grid-template-columns: 1.5fr 1fr; gap:15px; margin-top:15px;">
+                                    <div class="input-group" style="margin:0;"><label>Description Paragraph</label><div class="input-wrapper"><i class="fas fa-align-left"></i><input type="text" id="cms-slide1-desc"></div></div>
+                                    <div class="input-group" style="margin:0;"><label>Background Image Path</label><div class="input-wrapper"><i class="fas fa-image"></i><input type="text" id="cms-slide1-bg"></div></div>
+                                </div>
+                            </div>
+
+                            <!-- Slide 2 -->
+                            <div style="border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom:15px; margin-bottom:15px;">
+                                <h5 style="color:var(--text-white); margin-bottom:10px;">Slide 2 (Bouncers &amp; Squads)</h5>
+                                <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:15px;">
+                                    <div class="input-group" style="margin:0;"><label>Badge Text</label><div class="input-wrapper"><i class="fas fa-tag"></i><input type="text" id="cms-slide2-badge"></div></div>
+                                    <div class="input-group" style="margin:0;"><label>Title (Orange Highlight)</label><div class="input-wrapper"><i class="fas fa-heading"></i><input type="text" id="cms-slide2-title-span"></div></div>
+                                    <div class="input-group" style="margin:0;"><label>Title (White Text)</label><div class="input-wrapper"><i class="fas fa-heading"></i><input type="text" id="cms-slide2-title-br"></div></div>
+                                </div>
+                                <div style="display:grid; grid-template-columns: 1.5fr 1fr; gap:15px; margin-top:15px;">
+                                    <div class="input-group" style="margin:0;"><label>Description Paragraph</label><div class="input-wrapper"><i class="fas fa-align-left"></i><input type="text" id="cms-slide2-desc"></div></div>
+                                    <div class="input-group" style="margin:0;"><label>Background Image Path</label><div class="input-wrapper"><i class="fas fa-image"></i><input type="text" id="cms-slide2-bg"></div></div>
+                                </div>
+                            </div>
+
+                            <!-- Slide 3 -->
+                            <div>
+                                <h5 style="color:var(--text-white); margin-bottom:10px;">Slide 3 (PSARA Compliance)</h5>
+                                <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:15px;">
+                                    <div class="input-group" style="margin:0;"><label>Badge Text</label><div class="input-wrapper"><i class="fas fa-tag"></i><input type="text" id="cms-slide3-badge"></div></div>
+                                    <div class="input-group" style="margin:0;"><label>Title (Orange Highlight)</label><div class="input-wrapper"><i class="fas fa-heading"></i><input type="text" id="cms-slide3-title-span"></div></div>
+                                    <div class="input-group" style="margin:0;"><label>Title (White Text)</label><div class="input-wrapper"><i class="fas fa-heading"></i><input type="text" id="cms-slide3-title-br"></div></div>
+                                </div>
+                                <div style="display:grid; grid-template-columns: 1.5fr 1fr; gap:15px; margin-top:15px;">
+                                    <div class="input-group" style="margin:0;"><label>Description Paragraph</label><div class="input-wrapper"><i class="fas fa-align-left"></i><input type="text" id="cms-slide3-desc"></div></div>
+                                    <div class="input-group" style="margin:0;"><label>Background Image Path</label><div class="input-wrapper"><i class="fas fa-image"></i><input type="text" id="cms-slide3-bg"></div></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- About Us Section -->
+                        <div style="background:rgba(255,255,255,0.02); padding:20px; border-radius:14px; border:1px solid rgba(255,255,255,0.04);">
+                            <h4 style="color:var(--accent); margin-bottom:15px; font-weight:700;"><i class="fas fa-info-circle"></i> About Section (Home &amp; About Pages)</h4>
+                            <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:15px;">
+                                <div class="input-group" style="margin:0;"><label>Headline Highlight</label><div class="input-wrapper"><i class="fas fa-heading"></i><input type="text" id="cms-about-title-span"></div></div>
+                                <div class="input-group" style="margin:0;"><label>Headline Main Text</label><div class="input-wrapper"><i class="fas fa-heading"></i><input type="text" id="cms-about-title-br"></div></div>
+                                <div class="input-group" style="margin:0;"><label>Illustration Image Path</label><div class="input-wrapper"><i class="fas fa-image"></i><input type="text" id="cms-about-bg"></div></div>
+                            </div>
+                            <div class="input-group" style="margin-top:15px; margin-bottom:15px;">
+                                <label>Description Paragraph 1</label>
+                                <div class="input-wrapper"><i class="fas fa-align-left"></i><input type="text" id="cms-about-desc-p1"></div>
+                            </div>
+                            <div class="input-group" style="margin:0;">
+                                <label>Description Paragraph 2</label>
+                                <div class="input-wrapper"><i class="fas fa-align-left"></i><input type="text" id="cms-about-desc-p2"></div>
+                            </div>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div style="text-align:right;">
+                            <button type="submit" class="btn btn-primary" style="min-width: 180px;"><i class="fas fa-save"></i> Save Site Changes</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
         </div>
 
     </div>
@@ -758,7 +862,7 @@
             });
         }
 
-        /* â”€â”€ Logout â”€â”€ */
+        /* ── Logout ── */
         var logoutBtn = document.getElementById('logoutBtn');
         if (logoutBtn) {
             logoutBtn.addEventListener('click', function() {
@@ -768,16 +872,17 @@
             });
         }
 
-        /* â”€â”€ Load Dashboard â”€â”€ */
+        /* ── Load Dashboard ── */
         function loadDashboard() {
             enquiriesData = getEnquiries();
             usersData     = getUsers();
             renderStats();
             renderEnquiriesTable(enquiriesData);
             renderUsersTable(usersData);
+            loadCmsData();
         }
 
-        /* â”€â”€ Stats â”€â”€ */
+        /* ── Stats ── */
         function renderStats() {
             var prodCount = 0, svcCount = 0;
             enquiriesData.forEach(function(item) {
@@ -791,15 +896,136 @@
             document.getElementById('statUsers').textContent    = usersData.length;
         }
 
-        /* â”€â”€ Tab Switcher â”€â”€ */
+        /* ── Tab Switcher ── */
         window.switchAdminTab = function(tab) {
             document.getElementById('adminTabEnquiries').style.display = tab === 'enquiries' ? 'block' : 'none';
             document.getElementById('adminTabUsers').style.display     = tab === 'users'     ? 'block' : 'none';
+            document.getElementById('adminTabContent').style.display   = tab === 'content'   ? 'block' : 'none';
+            
             document.getElementById('tabEnquiries').classList.toggle('active', tab === 'enquiries');
             document.getElementById('tabUsers').classList.toggle('active', tab === 'users');
+            document.getElementById('tabContent').classList.toggle('active', tab === 'content');
         };
 
-        /* â”€â”€ Render Enquiries Table â”€â”€ */
+        /* ── CMS Content Routines ── */
+        var cmsForm = document.getElementById('cmsForm');
+
+        function loadCmsData() {
+            fetch('content.json')
+                .then(function(res) {
+                    if (!res.ok) throw new Error('File not found');
+                    return res.json();
+                })
+                .then(function(data) {
+                    populateCmsForm(data);
+                })
+                .catch(function(err) {
+                    console.log('Failed to fetch content.json, loading defaults.', err);
+                });
+        }
+
+        function populateCmsForm(data) {
+            if (!data) return;
+            if (data.branding) {
+                document.getElementById('cms-phone1').value = data.branding.phone1 || '';
+                document.getElementById('cms-phone2').value = data.branding.phone2 || '';
+                document.getElementById('cms-email').value  = data.branding.email || '';
+                document.getElementById('cms-address').value = data.branding.address || '';
+            }
+            if (data.hero) {
+                for (var i = 1; i <= 3; i++) {
+                    const slide = data.hero['slide' + i];
+                    if (slide) {
+                        document.getElementById('cms-slide' + i + '-badge').value = slide.badge || '';
+                        document.getElementById('cms-slide' + i + '-title-span').value = slide.title_span || '';
+                        document.getElementById('cms-slide' + i + '-title-br').value = slide.title_br || '';
+                        document.getElementById('cms-slide' + i + '-desc').value = slide.desc || '';
+                        document.getElementById('cms-slide' + i + '-bg').value = slide.bg || '';
+                    }
+                }
+            }
+            if (data.about) {
+                document.getElementById('cms-about-title-span').value = data.about.title_span || '';
+                document.getElementById('cms-about-title-br').value   = data.about.title_br || '';
+                document.getElementById('cms-about-desc-p1').value     = data.about.desc_p1 || '';
+                document.getElementById('cms-about-desc-p2').value     = data.about.desc_p2 || '';
+                document.getElementById('cms-about-bg').value         = data.about.bg || '';
+            }
+        }
+
+        if (cmsForm) {
+            cmsForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                var updatedContent = {
+                    branding: {
+                        phone1: document.getElementById('cms-phone1').value.trim(),
+                        phone2: document.getElementById('cms-phone2').value.trim(),
+                        email: document.getElementById('cms-email').value.trim(),
+                        address: document.getElementById('cms-address').value.trim()
+                    },
+                    hero: {
+                        slide1: {
+                            badge: document.getElementById('cms-slide1-badge').value.trim(),
+                            title_span: document.getElementById('cms-slide1-title-span').value.trim(),
+                            title_br: document.getElementById('cms-slide1-title-br').value.trim(),
+                            desc: document.getElementById('cms-slide1-desc').value.trim(),
+                            bg: document.getElementById('cms-slide1-bg').value.trim()
+                        },
+                        slide2: {
+                            badge: document.getElementById('cms-slide2-badge').value.trim(),
+                            title_span: document.getElementById('cms-slide2-title-span').value.trim(),
+                            title_br: document.getElementById('cms-slide2-title-br').value.trim(),
+                            desc: document.getElementById('cms-slide2-desc').value.trim(),
+                            bg: document.getElementById('cms-slide2-bg').value.trim()
+                        },
+                        slide3: {
+                            badge: document.getElementById('cms-slide3-badge').value.trim(),
+                            title_span: document.getElementById('cms-slide3-title-span').value.trim(),
+                            title_br: document.getElementById('cms-slide3-title-br').value.trim(),
+                            desc: document.getElementById('cms-slide3-desc').value.trim(),
+                            bg: document.getElementById('cms-slide3-bg').value.trim()
+                        }
+                    },
+                    about: {
+                        title_span: document.getElementById('cms-about-title-span').value.trim(),
+                        title_br: document.getElementById('cms-about-title-br').value.trim(),
+                        desc_p1: document.getElementById('cms-about-desc-p1').value.trim(),
+                        desc_p2: document.getElementById('cms-about-desc-p2').value.trim(),
+                        bg: document.getElementById('cms-about-bg').value.trim()
+                    }
+                };
+
+                var payload = {
+                    username: ADMIN_USER,
+                    password: ADMIN_PASS,
+                    content: updatedContent
+                };
+
+                fetch('api.php', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                })
+                .then(function(res) {
+                    if (!res.ok) throw new Error('HTTP error ' + res.status);
+                    return res.json();
+                })
+                .then(function(resData) {
+                    if (resData.status === 'success') {
+                        alert('Site content updated and saved on server successfully!');
+                    } else {
+                        alert('Error saving changes: ' + resData.message);
+                    }
+                })
+                .catch(function(err) {
+                    alert('Failed to save changes. Make sure your server is running PHP and deploy is complete.');
+                    console.error(err);
+                });
+            });
+        }
+
+        /* ── Render Enquiries Table ── */
         function renderEnquiriesTable(data) {
             var tbody = document.getElementById('enquiriesTableBody');
             if (!tbody) return;
