@@ -453,3 +453,131 @@ boppBags.forEach((bag) => {
     });
 });
 
+// 9. Add CCTV/Security Cameras (4 Products)
+const cctvCameras = [
+    {
+        id: 'CAM-01',
+        code: 'CAM-01',
+        name: 'Dome HD Security Camera',
+        category: 'cctv',
+        image: 'images/WhatsApp Image 2026-07-02 at 21.55.20.jpeg',
+        description: 'High-definition dome security camera designed for indoor and outdoor surveillance. Features night vision, wide-angle lens, and vandal-resistant housing.',
+        features: [
+            '1080p Full HD Video Recording',
+            'Smart IR Night Vision up to 30 meters',
+            'IP67 Weatherproof and Dustproof Rating',
+            'Wide 105° Horizontal Viewing Angle'
+        ],
+        specs: {
+            'Resolution': '2MP / 4MP Full HD Options',
+            'Sensor Type': '1/2.8" Progressive Scan CMOS',
+            'Lens focal length': '2.8mm / 3.6mm Fixed Lens',
+            'Housing': 'Metal Vandal-Proof Dome (IK10)',
+            'MOQ': '10 Pcs',
+            'Connectivity': 'PoE RJ45 or Analog BNC'
+        },
+        apps: [
+            'Office Passageways and Reception Areas',
+            'Commercial Building Entrance Halls',
+            'Retail Stores and Bank Branches',
+            'Residential Hallways and Lobbies'
+        ],
+        colors: ['Pearl White', 'Matte Black'],
+        moq: '10 Pcs'
+    },
+    {
+        id: 'CAM-02',
+        code: 'CAM-02',
+        name: 'Bullet Outdoor Security Camera',
+        category: 'cctv',
+        image: 'images/WhatsApp Image 2026-07-02 at 21.55.20 (1).jpeg',
+        description: 'Long-range weatherproof bullet security camera. Specially designed for perimeter surveillance, parking yards, and outdoor monitoring with high-intensity infrared LEDs.',
+        features: [
+            'Advanced Motion Detection & Smart Alerts',
+            'Long-Range Night Vision up to 50 meters',
+            'Sunshield integrated weatherguard hood',
+            'Supports H.265+ high efficiency compression'
+        ],
+        specs: {
+            'Resolution': '4MP / 8MP 4K Ultra HD',
+            'Sensor Type': '1/1.8" Low-Light CMOS Sensor',
+            'Lens focal length': '4.0mm / 6.0mm Narrow/Deep Field',
+            'Housing': 'IP67 Heavy-Duty Aluminum Bullet',
+            'MOQ': '10 Pcs',
+            'Connectivity': 'PoE / 12V DC power jack'
+        },
+        apps: [
+            'Industrial Factory Perimeters',
+            'Warehouses Loading Bays and Cargo Docks',
+            'Parking Lots and Driveways',
+            'Corporate Boundary Walls'
+        ],
+        colors: ['White / Black accents'],
+        moq: '10 Pcs'
+    },
+    {
+        id: 'CAM-03',
+        code: 'CAM-03',
+        name: 'PTZ Speed Dome Camera',
+        category: 'cctv',
+        image: 'images/WhatsApp Image 2026-07-02 at 21.55.21.jpeg',
+        description: 'Professional high-speed Pan-Tilt-Zoom (PTZ) camera with powerful optical zoom capabilities. Perfect for large open areas requiring active tracking and detail capture.',
+        features: [
+            '360° Endless Pan and -15° to 90° Tilt',
+            'Powerful 25x Optical Zoom, 16x Digital Zoom',
+            'Auto-tracking of moving vehicles and humans',
+            'Ultra low-light performance (DarkFighter technology)'
+        ],
+        specs: {
+            'Resolution': '4MP Quad HD',
+            'Optical Zoom': '25x Zoom Lens (4.8mm to 120mm)',
+            'IR Range': 'Up to 100 meters smart IR',
+            'Frame Rate': '60fps high speed recording',
+            'MOQ': '5 Pcs',
+            'Connectivity': 'PoE+ (802.3at) / 24VAC'
+        },
+        apps: [
+            'City Center Surveillance',
+            'Large Industrial Sites and Power Plants',
+            'Public Parks and Construction Site Yards',
+            'Sports Arenas and Stadium Fields'
+        ],
+        colors: ['Signal White'],
+        moq: '5 Pcs'
+    },
+    {
+        id: 'CAM-04',
+        code: 'CAM-04',
+        name: 'Wireless IP Smart Camera',
+        category: 'cctv',
+        image: 'images/WhatsApp Image 2026-07-02 at 21.55.22.jpeg',
+        description: 'Smart Wi-Fi security camera for quick deployment. Features two-way audio talkback, localized SD card storage, and cloud integration with mobile application remote control.',
+        features: [
+            'Dual-Band Wi-Fi (2.4GHz / 5GHz) connectivity',
+            'Two-Way Audio with built-in mic and speaker',
+            'PIR Motion detection with human heat sensing',
+            'Cloud Storage and MicroSD Card support (up to 256GB)'
+        ],
+        specs: {
+            'Resolution': '3MP Super HD',
+            'Sensor Type': '1/3" Progressive CMOS Sensor',
+            'Audio': 'Intercom two-way talkback enabled',
+            'Storage Support': 'MicroSD card slot + Cloud subscription',
+            'MOQ': '15 Pcs',
+            'Power Source': '5V DC Micro-USB / Rechargeable Battery'
+        },
+        apps: [
+            'Small Office Cabins and Server Rooms',
+            'Retail Cash Counters and Safes',
+            'Home Entrance and Nursery Rooms',
+            'Temporary Event Booths and Kiosks'
+        ],
+        colors: ['Arctic White', 'Deep Black'],
+        moq: '15 Pcs'
+    }
+];
+
+cctvCameras.forEach((cam) => {
+    PRODUCTS_DATA.push(cam);
+});
+

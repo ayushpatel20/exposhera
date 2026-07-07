@@ -219,9 +219,8 @@
                 <button class="filter-btn" data-filter="welding">Welding Equipment</button>
                 <button class="filter-btn" data-filter="fall">Fall Protection</button>
                 <button class="filter-btn" data-filter="bopp">BOPP Bags</button>
+                <button class="filter-btn" data-filter="cctv">Security Cameras</button>
             </div>
-
-            <!-- Products Dynamic Grid -->
             <div class="products-grid" id="productsCatalogGrid">
                 <!-- Cards will render here dynamically via JavaScript -->
             </div>
@@ -414,6 +413,7 @@
                         <option>Road Safety Products</option>
                         <option>Welding Safety Equipment</option>
                         <option>Fall Protection Gear</option>
+                        <option>Security Cameras / CCTV</option>
                         <option>Other Requirements</option>
                     </select>
                     <textarea id="enquiryTextarea" placeholder="Tell us about your requirements..." rows="3"></textarea>
@@ -469,7 +469,7 @@
             const urlParams = new URLSearchParams(window.location.search);
             const catParam = urlParams.get('category');
             if (catParam) {
-                const validCategories = ['jackets', 'shoes', 'helmets', 'gloves', 'road', 'welding', 'fall', 'bopp'];
+                const validCategories = ['jackets', 'shoes', 'helmets', 'gloves', 'road', 'welding', 'fall', 'bopp', 'cctv'];
                 if (validCategories.includes(catParam.toLowerCase())) {
                     activeFilter = catParam.toLowerCase();
                     filterButtons.forEach(btn => {
